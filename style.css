@@ -1,4 +1,16 @@
+:root{
+    --purple-100: #ECE9FD;
+    --purple-200: #7158EF;
+    --blue-100:#090039;
+    --gray-100:#0a003971;
+
+    --font-16: 16px;
+    --font-24: 24px;
+    --font-40: 40px;
+    --font-72: 72px;
+}
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
